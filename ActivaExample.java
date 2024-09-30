@@ -28,6 +28,6 @@ public class ActivaExample {
 
 		ActivaPlus a1 = new ActivaPlus();
 
-		a1.bill("Activa Plus", 50000);
+		a1.bill("Activa Plus", 40000);
 	}
 }
